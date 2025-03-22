@@ -49,10 +49,7 @@ class bankloanAdmin(admin.ModelAdmin):
 
 ```
 # OUTPUT
-
 ![alt text](3f47074fc37d462b700756cab0036666_Screenshot%202025-03-22%20091035.png)
-
 ![alt text](035b12c975deda7232d50dac5e18dab5_Screenshot%202025-03-22%20092441.png)
-
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
